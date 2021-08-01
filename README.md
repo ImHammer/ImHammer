@@ -24,10 +24,6 @@ My name is Danilo Jesus, I am a full stack web developer who is currently workin
 <font >Contact me</font>
 
 <br/>
-<a href="https://www.instagram.com/daniloj_j/">
-  <img align="center" justify-content="center" alt="daniloj_j" width="110px" height="29px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-  
 <a href="https://twitter.com/DaniloJ_J/">
   <img align="center" justify-content="center" alt="DaniloJ_J" width="110px" height="29px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
