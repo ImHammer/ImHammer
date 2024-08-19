@@ -35,12 +35,6 @@ Desenvolvedor FullStack
 <a href="https://www.linkedin.com/in/danilo-jesus-652a12216/">
   <img align="center" justify-content="center" alt="linkedin" width="110px" height="29px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/DaniloJ_J/">
-  <img align="center" justify-content="center" alt="twitter" width="110px" height="29px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/dev_imhammer/">
-  <img align="center" justify-content="center" alt="instagram" width="110px" height="29px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=ImHammer&show_icons=true&theme=gotham" alt="ImHammer" />
